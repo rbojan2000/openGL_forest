@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(111,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(121,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(135,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(190,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(193,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(194,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(200,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(211,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(218,31): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(222,37): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(238,37): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(246,42): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(262,37): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(269,37): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(277,37): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(284,37): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(293,39): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(303,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Racunarska grafika materijali\project\CGBase\main.cpp(308,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CGBase.vcxproj -> C:\Users\User\Desktop\Racunarska grafika materijali\project\x64\Debug\CGBase.exe
